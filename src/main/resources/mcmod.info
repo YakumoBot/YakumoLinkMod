@@ -1,0 +1,16 @@
+[
+{
+  "modid": "yakumolink",
+  "name": "Yakumo Link",
+  "description": "YakumoLink for YakumoChatBot",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["YakumoLink","ZakeArias"],
+  "credits": "YakumoLink for YakumoChatBot",
+  "logoFile": "assets.yakumolink/icon/icon.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
